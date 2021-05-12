@@ -18,16 +18,12 @@ The aim of this project is to simulate an Adaptive Cruise Control (ACC). More in
 	    ├───FSM_unit_test
         │   └───Reports
         ├───Switch_unit_test
-		│   └───Reports
-		└───Torque_split
-		    └───Reports
+        │   └───Reports
+        └───Torque_split
+            └───Reports
 
 ```
-    └───Test
-        ├───ControllerTest
-        │   ├───Baselines
-        │   ├───Test Reports
-        │   └───testScenarios
+
 ### __Group members:__ 
 
 	- Barro Alessandro 
