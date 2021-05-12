@@ -10,7 +10,7 @@ The aim of this project is to simulate an Adaptive Cruise Control (ACC). More in
 	└───Report Generation Code
 	└───Report Misra C
 ├───Documetation
-    ├───Latex file
+	└───Latex file
 ├───Model
 └───Test
 	├───SIL and PIL
