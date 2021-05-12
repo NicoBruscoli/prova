@@ -32,4 +32,7 @@ The aim of this project is to simulate an Adaptive Cruise Control (ACC). More in
 	- Chiacchiararelli Leonardo 
 	- Cintura Manuel 
 	- Mariani Lucia 
+	
+## License
+MIT
 
