@@ -7,13 +7,13 @@ The aim of this project is to simulate an Adaptive Cruise Control (ACC). More in
 ## __Repository structure__
 ``` bash
 ├───Code
-│   └───Report Generation Code
-│   └───Report Misra C
-└───Documetation
+	└───Report Generation Code
+	└───Report Misra C
+├───Documetation
     ├───Latex file
-└───Model
+├───Model
 └───Test
-	└───SIL and PIL
+	├───SIL and PIL
 	└───Unity and Integration tests
 
 ```
