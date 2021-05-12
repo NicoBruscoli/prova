@@ -15,7 +15,7 @@ The aim of this project is to simulate an Adaptive Cruise Control (ACC). More in
 └───Test
     ├───SIL and PIL
     └───Unity and Integration tests
-	    ├───FSM_unit_test
+        ├───FSM_unit_test
         │   └───Reports
         ├───Switch_unit_test
         │   └───Reports
